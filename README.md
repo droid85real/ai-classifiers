@@ -2,6 +2,20 @@
 
 A full-stack application that automatically classifies products and generates SEO metadata using **Google Gemini AI**. Users submit product information; the system assigns a primary category, suggests a sub category, generates 5–10 SEO tags, suggests sustainability filters, and stores the result in **MongoDB**.
 
+<br />
+<br />
+
+## 🎥 Demo
+
+
+![Demo](demo/ai-classifiers.gif)
+
+<br />
+
+### Watch on youtube
+
+[![Watch the demo](https://img.youtube.com/vi/3lgJ0VO1g_M/0.jpg)](https://youtu.be/3lgJ0VO1g_M)
+
 ## Stack
 
 - **Frontend:** Next.js 14 (App Router), TypeScript, TailwindCSS, React Server Components
